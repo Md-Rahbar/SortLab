@@ -1,0 +1,8 @@
+/* Custom styles for Material UI components */
+.bar {
+  transition: all 0.1s ease;
+}
+
+.bar:hover {
+  transform: scaleY(1.05);
+}
